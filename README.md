@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Blessing Rakoma 👋
 
-<!--
-**BlessingRakoma/BlessingRakoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Engineer · AWS re/Start Participant · Fintech**  
+📍 Johannesburg, South Africa &nbsp;|&nbsp; 🔗 [linkedin.com/in/blessingrakoma](https://linkedin.com/in/blessingrakoma)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech stack
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [AWS Fintech ATM Simulation](https://github.com/BlessingRakoma/aws-atm-simulation) | Cloud-based ATM with fraud detection, RBAC, and full audit logging | EC2 · S3 · IAM · Bash | ✅ Complete |
+| [AWS Cloud Projects Portfolio](https://github.com/BlessingRakoma/AWS-Cloud-Projects) | 5-project portfolio covering compute, networking, storage, and identity | EC2 · EBS · IAM · Networking | ✅ Complete |
+
+---
+
+### 🏅 Certifications
+
+- ✅ Udacity - Introducing Generative AI with AWS  
+- ✅ EC-Council Cybersecurity Technician (CCT)- Trained
+- ✅ AWS Educate — Machine Learning Foundations  
+- 🔄 AWS Cloud Practitioner (CLF-C02) — in progress
+
+---
+
+### 📌 Currently
+
+- 🌱 100 days of cloud (AWS) challenge - Kode Kloud Engineer
+- 📦 Building my cloud portfolio project by project
+- 🎯 Target: AWS Cloud Practitioner certified by mid-2026
+
+---
+
+*Portfolio is actively being updated. New projects added weekly.*
