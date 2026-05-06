@@ -1,11 +1,11 @@
-# Hi, I'm Blessing Rakoma 👋
+# Hi, I'm Blessing Rakoma
 
 **Cloud Engineer · AWS re/Start Participant · Fintech**  
-📍 Johannesburg, South Africa &nbsp;|&nbsp; 🔗 [linkedin.com/in/blessingrakoma](https://linkedin.com/in/blessingrakoma)
+ Johannesburg, South Africa &nbsp;|&nbsp; 🔗 [linkedin.com/in/blessingrakoma](https://linkedin.com/in/blessingrakoma)
 
 ---
 
-### 🛠️ Tech stack
+###  Tech stack
 
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Featured projects
+###  Featured projects
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
 - ✅ Udacity - Introducing Generative AI with AWS  
 - ✅ EC-Council Cybersecurity Technician (CCT)- Trained
@@ -34,11 +34,11 @@
 
 ---
 
-### 📌 Currently
+###  Currently
 
-- 🌱 100 days of cloud (AWS) challenge - Kode Kloud Engineer
-- 📦 Building my cloud portfolio project by project
-- 🎯 Target: AWS Cloud Practitioner certified by mid-2026
+-  100 days of cloud (AWS) challenge - Kode Kloud Engineer
+-  Building my cloud portfolio project by project
+-  Target: AWS Cloud Practitioner certified by mid-2026
 
 ---
 
