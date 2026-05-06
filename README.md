@@ -1,6 +1,6 @@
 # Hi, I'm Blessing Rakoma
 
-**Cloud Engineer · AWS re/Start Participant · Fintech**  
+**Cloud Engineer · Fintech**  
  Johannesburg, South Africa &nbsp;|&nbsp; 🔗 [linkedin.com/in/blessingrakoma](https://linkedin.com/in/blessingrakoma)
 
 ---
