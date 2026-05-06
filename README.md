@@ -10,9 +10,6 @@
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -29,7 +26,9 @@
 
 - ✅ Udacity - Introducing Generative AI with AWS  
 - ✅ EC-Council Cybersecurity Technician (CCT)- Trained
-- ✅ AWS Educate — Machine Learning Foundations  
+- ✅ AWS Educate — Machine Learning Foundations
+- ✅ Fundamentals of Predictive Project Management
+- ✅ ISC2 Candidate
 - 🔄 AWS Cloud Practitioner (CLF-C02) — in progress
 
 ---
@@ -38,7 +37,7 @@
 
 -  100 days of cloud (AWS) challenge - Kode Kloud Engineer
 -  Building my cloud portfolio project by project
--  Target: AWS Cloud Practitioner certified by mid-2026
+-  Target: AWS Cloud Practitioner certified
 
 ---
 
